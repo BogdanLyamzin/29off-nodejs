@@ -1,1 +1,3 @@
-console.log("Вы что хотите жить вечно?!");
+console.log("Добро пожаловать в ад!");
+
+const gulp = require("gulp")
