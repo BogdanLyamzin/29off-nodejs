@@ -2,9 +2,7 @@ const express = require("express");
 
 const products = require("../../controllers/products");
 
-const Product = require("../../models/product");
-
-const {createError, ctrlWrapper} = require("../../helpers");
+const {ctrlWrapper} = require("../../helpers");
 
 const router = express.Router();
 
