@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61bc69d1-abee-4b36-917b-8aa220124e93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/products/updateActive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middlewares/validateId.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-6/nodejs-homework-template/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-6/nodejs-homework-template/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-6/nodejs-homework-template/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-7/nodejs-homework-template-controllers-wrappers/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-7/nodejs-homework-template-controllers-wrappers/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-7/nodejs-homework-template/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-7/nodejs-homework-template/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="61bc69d1-abee-4b36-917b-8aa220124e93" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648489856458</updated>
       <workItem from="1648489860034" duration="1961000" />
-      <workItem from="1648963160483" duration="2096000" />
+      <workItem from="1648963160483" duration="2440000" />
     </task>
     <servers />
   </component>
