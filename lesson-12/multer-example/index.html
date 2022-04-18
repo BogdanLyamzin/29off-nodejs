@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form id="product-form" action="" enctype="multipart/form-data">
+        <input type="file" name="image" multiple>
+        <button type="submit">Отправить</button>
+    </form>
+    <script>
+       const productForm = document.getElementById("product-form");
+       productForm.addEventListener("submit", function(e){
+           e.preventDefault();
+           const data = new FormData();
+           data.append("image", this.elements.image.files[0])
+       })
+    </script>
+</body>
+</html>
